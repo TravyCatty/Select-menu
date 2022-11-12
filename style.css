@@ -46,7 +46,9 @@ body {
     font-size: 1rem;
     transition: 0.3s;
 }
-.option:hover {
+.option:hover,
+.option.selected
+ {
     color: rgb(1, 150, 150);
 }
 .active{
