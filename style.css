@@ -49,3 +49,6 @@ body {
 .option:hover {
     color: rgb(1, 150, 150);
 }
+.active{
+    height: 180px;
+}
